@@ -1,0 +1,11 @@
+CustomerID,Gender,Tenure,Contract,MonthlyCharges,Churn
+1001,Male,12,Month-to-month,70.5,Yes
+1002,Female,24,One year,55.2,No
+1003,Male,3,Month-to-month,89.9,Yes
+1004,Female,36,Two year,45.0,No
+1005,Male,18,One year,65.5,No
+1006,Female,2,Month-to-month,95.0,Yes
+1007,Male,48,Two year,40.3,No
+1008,Female,6,Month-to-month,80.1,Yes
+1009,Male,30,One year,60.7,No
+1010,Female,1,Month-to-month,99.9,Yes
